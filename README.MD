@@ -1,0 +1,3 @@
+## Big Data Application using PySpark
+
+Using **churn.csv** dataset, we setup pyspark first and run it, then did feature engineering, explore the dataset, preprocess the data. Randomly split the dataset as test and train, then using GBTClassifier created the model, fit and transform it, and predict the result. Then using crossvalidator tune the model. Finally, add new customers to datasets, and run the model again, and see if customers leave or stay in?
